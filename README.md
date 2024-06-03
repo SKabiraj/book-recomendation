@@ -1,2 +1,3 @@
-# book-recomendation
-A simple book recomendation system using Python in Jupyter Notebook
+# Book-Recommendation-system
+
+Explanation Video: https://www.youtube.com/watch?v=uOPZZrrcKKs&t=2508s
